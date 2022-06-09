@@ -10,3 +10,5 @@ this is just new text.
 *This is different text*
 
 ## This is 3rd header
+
+## This is new payment method implemented correctly
